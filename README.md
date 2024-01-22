@@ -1,16 +1,18 @@
 # wealth_assistant
 
-A new Flutter project.
+A small utility app “Wealth Assistant” that might come in handy to someone if the need arises.
 
-## Getting Started
+This app simplifies financial planning, making it accessible to everyone.
 
-This project is a starting point for a Flutter application.
+🚀 Key Features:
+SIP and Lumpsum Return Calculations
+User-Friendly Interface
+Efficient Financial Planning
 
-A few resources to get you started if this is your first Flutter project:
+Looking forward to your thoughts🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Wannabe-King/Wealth_Assistant/assets/97578019/3542d17f-f4d4-4551-b20b-02d53062e723
+
+
