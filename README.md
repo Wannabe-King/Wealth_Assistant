@@ -6,7 +6,9 @@ This app simplifies financial planning, making it accessible to everyone.
 
 🚀 Key Features:
 SIP and Lumpsum Return Calculations
+
 User-Friendly Interface
+
 Efficient Financial Planning
 
 Looking forward to your thoughts🚀
