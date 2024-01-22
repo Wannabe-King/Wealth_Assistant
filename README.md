@@ -4,7 +4,7 @@ A small utility app “Wealth Assistant” that might come in handy to someone i
 
 This app simplifies financial planning, making it accessible to everyone.
 
-🚀 Key Features:
+### Key Features:🚀
 
 SIP and Lumpsum Return Calculations
 
